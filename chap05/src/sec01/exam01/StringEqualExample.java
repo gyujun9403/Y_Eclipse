@@ -22,6 +22,6 @@ public class StringEqualExample {
 		if(strval3 == strval4) {System.out.println("strval3와 strval4는 참조가 같다.");}
 		else {System.out.println("strval3과 strval4는 참고가 다르다.");}
 		if(strval3.equals(strval4)) {System.out.println("strval3와 strval4는 내용이 같다.");}
-		else {System.out.println("strval3과 strval4는 내용이 다르다.");}
+		else {System.out.println("strval3과 strval4는 내용이 다르다.");}                                                    
 	}
 }
