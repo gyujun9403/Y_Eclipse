@@ -8,7 +8,7 @@ public class ArrayCreatByValueListExample {
 		int sum1 = 0;
 		for(int i = 0; i < scores.length;i++) {sum1 += scores[i];}
 		System.out.println("รัวี1 : " + sum1);
-		
+		 
 		//ก้ก้ Syntax error on token(s), misplaced construct(s) ก้ก้
 		//int sum2 = add(int[] {83, 90, 87});
 		int sum2 = add(new int[] {83, 90, 87});
