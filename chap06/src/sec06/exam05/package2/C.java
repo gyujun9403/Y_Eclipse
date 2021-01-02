@@ -14,3 +14,4 @@ public class C {
 		//a.method3();	The method method3() from the type A is not visible
 	}
 }
+ 
