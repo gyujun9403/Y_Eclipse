@@ -7,6 +7,7 @@ public class People {
 		this.name = name;
 		this.ssn = ssn;
 	}
+	
 	public void Print() {
 		System.out.println("¿Ã∏ß	: " + this.name);
 		System.out.println("SSN	: " + this.ssn);
