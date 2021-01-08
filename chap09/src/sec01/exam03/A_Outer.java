@@ -8,9 +8,6 @@ public class A_Outer {
 	static void method_static() { }
 	
 	class B_instance {
-		field1_instance = 10;
-		int i = 0;
-		i = 1;
 		void method() {
 			field1_instance = 10;
 			method_instance();
